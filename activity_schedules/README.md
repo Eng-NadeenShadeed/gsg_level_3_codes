@@ -26,5 +26,5 @@ Example values:
 
 ## Author
 Name: Nadeen Monther Shadeed 
-ID: nadeenshadeed25@gmail.com
+Email: nadeenshadeed25@gmail.com
 
